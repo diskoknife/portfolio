@@ -167,3 +167,4 @@ bower_components/
 # Others
 !.gitignore
 !.env.example
+secrets/
