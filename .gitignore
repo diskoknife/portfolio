@@ -145,11 +145,10 @@ bower_components/
 .DS_Store
 
 # Terraform
-.terraform/*
+**/.terraform/*
 *.tfstate
 *.tfstate.*.backup
 *.tfstate.backup
-*.tfvars
 
 # Ansible
 *.retry
